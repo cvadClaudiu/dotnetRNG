@@ -6,13 +6,13 @@ A dotnet aplication featuring scalar API, used for random number generation
 
 ## Features
 
--Generating a random integer number, with adjustable range 
+-**Generating a random integer number, with adjustable range**
 
 ---
 
 ## To be implemented
 
--A dice rolling feature with the following characteristics:
+-**A dice rolling feature with the following characteristics:**
  -selectable number of dice rolled
  -selectable dice types:
    -two-sided dice (coinflip)
