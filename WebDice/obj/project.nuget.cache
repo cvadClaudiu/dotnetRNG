@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iv167g6dZM0=",
+  "success": true,
+  "projectFilePath": "C:\\AIA\\0Proiecte\\dotnet_dice\\WebDice\\WebRand.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xenon\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\xenon\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\xenon\\.nuget\\packages\\scalar.aspnetcore\\2.8.0\\scalar.aspnetcore.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
