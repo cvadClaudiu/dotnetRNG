@@ -1,5 +1,26 @@
 [
   {
+    "ContainingType": "WebRand.Controllers.DiceController",
+    "Method": "DRollDice",
+    "RelativePath": "api/Dice/roll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "amount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebRand.Controllers.RanController",
     "Method": "Get",
     "RelativePath": "api/Ran",

@@ -32,3 +32,4 @@ C:\AIA\0Proiecte\dotnet_dice\WebDice\obj\Debug\net9.0\refint\WebRand.dll
 C:\AIA\0Proiecte\dotnet_dice\WebDice\obj\Debug\net9.0\WebRand.pdb
 C:\AIA\0Proiecte\dotnet_dice\WebDice\obj\Debug\net9.0\WebRand.genruntimeconfig.cache
 C:\AIA\0Proiecte\dotnet_dice\WebDice\obj\Debug\net9.0\ref\WebRand.dll
+C:\AIA\0Proiecte\dotnet_dice\WebDice\obj\Debug\net9.0\WebRand.sourcelink.json

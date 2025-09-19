@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebRand")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92ddeecd13e357364efb8b91deccf16c2d5a9cbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebRand")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebRand")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

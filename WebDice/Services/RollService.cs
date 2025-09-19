@@ -1,4 +1,5 @@
 ﻿using System;
+using WebRand.Infrastructure;
 
 namespace WebRand.Services
 {
@@ -18,4 +19,26 @@ namespace WebRand.Services
             return _rn.Next(RNmin, RNmax + 1);
         }
     }
+
+    public class DRollService
+    {
+        private readonly Random _Drn = new();
+
+        public List<int> Droll(Dice dx)
+        {
+            if (dx.Dmax < 2)
+                throw new ArgumentException("Dice must have at least 2 sides!");
+            if (dx.Damount < 1)
+                throw new ArgumentException("You must throw at least 1 dice!");
+
+            var results = new List<int>();
+            for (int i=0; i < dx.Damount; i++)
+            {
+                results.Add(_Drn.Next(dx.Dmin, dx.Dmax + 1));
+            }
+            return results;
+        }
+        
+    }
+
 }
